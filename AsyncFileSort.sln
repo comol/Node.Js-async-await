@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "AsyncFileSort", "AsyncFileSort\AsyncFileSort.njsproj", "{B5814FB5-82C3-4783-9639-72C2AF4B9DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5814FB5-82C3-4783-9639-72C2AF4B9DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5814FB5-82C3-4783-9639-72C2AF4B9DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5814FB5-82C3-4783-9639-72C2AF4B9DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5814FB5-82C3-4783-9639-72C2AF4B9DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F1CF126-DCAF-4906-9463-AD4F2D63E2ED}
+	EndGlobalSection
+EndGlobal
